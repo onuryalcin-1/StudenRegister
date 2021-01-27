@@ -16,7 +16,7 @@ class Player implements Comparable<Player>{
 
     @Override
     public String toString() {
-       return "|||| ID: " + id + " İsim :" + isim + " |||";
+       return "|||| |ID: " + id + " İsim :" + isim + " |||";
        
     }
 
